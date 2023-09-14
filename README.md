@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+TECHNICAL SKILLS
+Languages: C#, JavaScript(ES6, Node.js), Python, HTML, CSS, SQL Frameworks/Libraries: Flask, Jinja2, React,
+Bootstrap, .NET Databases: MySQL, MongoDB Tools: JSON, PostMan, Express, MySQL Workbench, Git, Github
+
 <!--
 **BrentCleary/BrentCleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

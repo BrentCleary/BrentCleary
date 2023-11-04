@@ -2,11 +2,25 @@
 
 TECHNICAL SKILLS
 
-TECHNICAL SKILLS
 Languages: C#, JavaScript(ES6, Node.js), Python, HTML, CSS, SQL   
 Frameworks/Libraries: Flask, Jinja2, React.js, Bootstrap, ASP.NET Core, .NET, Django, Express.js  
 Databases: MySQL, MongoDB, MongoDB Atlas   
 Tools: JSON, Razor, Bootstrap, Ajax, REST API, Git, Github, LINQ, PostMan, Express, MySQL Workbench, Git, Github
+
+
+PROJECTS:
+
+Current Backend Developer for Instrumental: Music Teaching App
+
+Live Site in Development:
+http://team-five-1698954384.eba-yggxicxf.us-east-1.elasticbeanstalk.com/
+
+https://github.com/CodeZero-TeamFive/TeamFiveApp
+
+
+
+
+
 
 <!--
 **BrentCleary/BrentCleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

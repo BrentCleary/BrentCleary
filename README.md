@@ -10,13 +10,14 @@ Tools: JSON, Razor, Bootstrap, Ajax, REST API, Git, Github, LINQ, PostMan, Expre
 
 PROJECTS:
 
-Current Backend Developer for Instrumental: Music Teaching App
+Instrumental: Music Teaching App
 
-Live Site in Development:
 http://team-five-1698954384.eba-yggxicxf.us-east-1.elasticbeanstalk.com/
 
 https://github.com/CodeZero-TeamFive/TeamFiveApp
 
+
+Howls Dog Park: Website
 
 
 

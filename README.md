@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 TECHNICAL SKILLS
-Languages: C#, JavaScript(ES6, Node.js), Python, HTML, CSS, SQL Frameworks/Libraries: Flask, Jinja2, React,
-Bootstrap, .NET Databases: MySQL, MongoDB Tools: JSON, PostMan, Express, MySQL Workbench, Git, Github
+
+TECHNICAL SKILLS
+Languages: C#, JavaScript(ES6, Node.js), Python, HTML, CSS, SQL   
+Frameworks/Libraries: Flask, Jinja2, React.js, Bootstrap, ASP.NET Core, .NET, Django, Express.js  
+Databases: MySQL, MongoDB, MongoDB Atlas   
+Tools: JSON, Razor, Bootstrap, Ajax, REST API, Git, Github, LINQ, PostMan, Express, MySQL Workbench, Git, Github
 
 <!--
 **BrentCleary/BrentCleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

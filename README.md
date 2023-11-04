@@ -18,7 +18,9 @@ https://github.com/CodeZero-TeamFive/TeamFiveApp
 
 QuestGen - AI-Powered Picture Book Generator
 
-https://github.com/BrentCleary/BrentCleary/assets/69173728/a10dd732-f1ad-4d33-a89b-96203d267a5c
+![ezgif com-video-to-gif (1)](https://github.com/BrentCleary/BrentCleary/assets/69173728/4a98cdab-b0fd-4a4b-ae7f-30b159800278)
+
+
 
 
 

@@ -12,7 +12,12 @@ PROJECTS:
 
 Instrumental: Music Teaching App
 
-![2023-11-04 21-41-44 (2)](https://github.com/BrentCleary/BrentCleary/assets/69173728/cfbce552-e4a4-4b2a-a9e5-88295b863e8b)
+![ezgif com-video-to-gif (2)](https://github.com/BrentCleary/BrentCleary/assets/69173728/a670b27b-3a72-4b5a-921c-23084d1d72e2)
+
+
+https://github.com/BrentCleary/BrentCleary/assets/69173728/798481a6-411d-4963-8ca4-cd2539d1ae66
+
+
 
 
 https://github.com/CodeZero-TeamFive/TeamFiveApp

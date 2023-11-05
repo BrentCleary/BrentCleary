@@ -10,14 +10,6 @@ Tools: JSON, Razor, Bootstrap, Ajax, REST API, Git, Github, LINQ, PostMan, Expre
 
 PROJECTS:
 
-Instrumental: Music Teaching App
-
-![ezgif com-video-to-gif (2)](https://github.com/BrentCleary/BrentCleary/assets/69173728/a670b27b-3a72-4b5a-921c-23084d1d72e2)
-
-
-https://github.com/BrentCleary/BrentCleary/assets/69173728/798481a6-411d-4963-8ca4-cd2539d1ae66
-
-
 
 
 https://github.com/CodeZero-TeamFive/TeamFiveApp

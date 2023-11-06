@@ -1,4 +1,4 @@
-### Fulll Stack Developer with experience Frontend, Backend and Database design in Python, React, and C#
+### Fulll Stack Developer with experience in Frontend, Backend and Database design in Python, React, and C#
 
 TECHNICAL SKILLS
 

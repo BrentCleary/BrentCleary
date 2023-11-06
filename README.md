@@ -27,7 +27,7 @@ An interactive storybook where users pick their own path, and DeepAI generates u
 https://github.com/BrentCleary/QuestGen
 
 
-### Howls Dog Park: Business Website
+### Howls Dog Park: Company Website
 
 A fun and functional business Website for a Dog Park, where users can create a profile, save and update information for multiple dogs, and reserve boardings with memberships. 
 

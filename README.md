@@ -1,5 +1,7 @@
 ### Fulll Stack Developer with experience in Frontend, Backend and Database design in Python, React, and C#
 
+Portfolio: https://brentcleary-portfolio.netlify.app/
+
 TECHNICAL SKILLS
 
 Languages: C#, JavaScript(ES6, Node.js), Python, HTML, CSS, SQL   

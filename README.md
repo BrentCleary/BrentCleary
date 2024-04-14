@@ -18,7 +18,7 @@ A multi-tenant Sass application for providing project and ticket tracking for mu
 
 ![BugTracks_AllProjects_Screen](https://github.com/BrentCleary/BrentCleary/assets/69173728/ee1aabbd-a6dc-4450-8aba-d0716b6dbef3)
 
-https://github.com/CodeZero-TeamFive/TeamFiveApp
+https://github.com/BrentCleary/BugTracks
 
 
 ### .NET Developing
@@ -28,7 +28,7 @@ An online blog utilizing ASP.NET providing personal blogs, commentting, tagging 
 
 ![BlogPictureForPortfolio](https://github.com/BrentCleary/BrentCleary/assets/69173728/e4bf2c08-d578-45c5-a2e7-6d7d3bc26ee6)
 
-https://github.com/CodeZero-TeamFive/TeamFiveApp
+https://github.com/BrentCleary/TheBlogProject
 
 
 ### Contact Pro: Email Contact Solutions
@@ -36,9 +36,9 @@ https://contactpro-03c9eb3abf62.herokuapp.com/
 
 An emailing and contact categorizing solution allowing for individual and group emails.
 
-![ezgif com-video-to-gif (2)](https://github.com/BrentCleary/BrentCleary/assets/69173728/a670b27b-3a72-4b5a-921c-23084d1d72e2)
+![MyContactsCard](https://github.com/BrentCleary/BrentCleary/assets/69173728/1e21c8af-99a7-4861-8e84-48571db6214f)
 
-https://github.com/CodeZero-TeamFive/TeamFiveApp
+https://github.com/BrentCleary/ContactPro
 
 
 
